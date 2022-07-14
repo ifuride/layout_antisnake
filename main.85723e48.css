@@ -1,0 +1,2 @@
+.page{margin:0}.container{display:grid;grid-template-columns:repeat(auto-fit,minmax(calc(max(300px, 33.33333%)),1fr))}.block{height:300px;display:flex;justify-content:center;align-items:center;flex-grow:1;flex-basis:33.33%;font-family:Arial,Helvetica,sans-serif;font-size:100px;color:#fff}.block--color-1{background-color:red}.block--color-2{background-color:#c00}.block--color-3{background-color:#900}.block--color-4{background-color:#600}.block--color-5{background-color:#300}.block--color-6{background-color:#000}
+/*# sourceMappingURL=main.85723e48.css.map */
